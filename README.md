@@ -4,7 +4,7 @@
 ## Project Information / Informations sur le Projet
 
 **Course**: P.M.Q.F. 20671 - HEC Montréal  
-**Team**: Alex-Anne Favreau (11297786), Gabriel Fournier (11315823), Julia Krumgant (11298595)
+**Team**: Alex-Anne Favreau (11297786), Julia Krumgant (11298595)
 
 This project demonstrates VBA programming skills including function creation, iterative algorithms, array handling, and Excel integration.
 
